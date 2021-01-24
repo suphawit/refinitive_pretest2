@@ -1,0 +1,14 @@
+/* .app {
+  display: flex;
+  flex-direction: row;
+}
+.app .num {
+  width: 200px;
+}
+.app .func {
+  width: calc(100% - 500px);
+  min-width: 100px;
+}
+.app .status {
+  width: 300px;
+} */
